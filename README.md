@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @j13hernandez
 - 👀 I’m interested in...all things life
-- 🌱 I’m currently learning...python automation
+- 🌱 I’m currently learning...python & react native
 - 💞️ I’m looking to collaborate on...a meaningful project
-- 📫 How to reach me...you'llknow
+- 📫 How to reach me...you'll know
 
 <!---
 j13hernandez/j13hernandez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
