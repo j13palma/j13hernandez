@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @j13hernandez
 - 👀 I’m interested in...all things life
-- 🌱 I’m currently learning...Web Development; HTML, CSS, JS, React, TypeScript
+- 🌱 I’m currently learning...Java, Python, JS, React, TypeScript
 - 💞️ I’m looking to collaborate on...a meaningful project
 - 📫 How to reach me...you'll know
 
